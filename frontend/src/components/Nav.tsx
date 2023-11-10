@@ -7,7 +7,7 @@ import avatar from "../assets/images/image-avatar.png";
 
 const Nav:React.FC = () => {
   return (
-    <nav className = ' flex items-center justify-between ' >
+    <nav className = ' flex items-center justify-between border-b-2 ' >
       <div className = 'flex' >
         <header>
             <h1> sneakers </h1>
